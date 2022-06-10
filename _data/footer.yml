@@ -1,30 +1,11 @@
-- title: Pages
+- title: Secciones
   links:
-    - name: Home
+    - name: Inicio
       link: /
-    - name: Portfolio
-      link: /portfolio/
-    - name: Blog
-      link: /blog/
-    - name: About
-      link: /about/
-    - name: Contact
-      link: /contact/
-- title: Social
+    - name: Material AV-ESL
+      link: /av-esl/
+- title: Contacto
   links:
-    - name: Facebook
+    - name: Whatsapp
       link: https://facebook.com/cloudcannon/
-      social_icon: Facebook
-      new_window: true
-    - name: Twitter
-      link: https://twitter.com/cloudcannon/
-      social_icon: Twitter
-      new_window: true
-    - name: Instagram
-      link: https://instagram.com/
-      social_icon: Instagram
-      new_window: true
-    - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
-      social_icon: LinkedIn
-      new_window: true
+      social_icon: Whatsapp
