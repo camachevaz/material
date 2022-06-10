@@ -1,8 +1,8 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Material didáctico                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : mx                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -20,14 +20,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : CHEE asesores educativos                                
+your_link                                 : https://asesoreducativo.mx/
+your_city                                 : Mexicali                                
+email_address                             : material@asesoreducativo.mx
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
 
 
@@ -35,17 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : Sin sesiones de grabación
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : speaker
     
-  - title                                 : iPhone Device Preview
+  - title                                 : Con los textos que ya usas
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : document
 
-  - title                                 : Video Support
+  - title                                 : O redacta material personalizado
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : users
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
